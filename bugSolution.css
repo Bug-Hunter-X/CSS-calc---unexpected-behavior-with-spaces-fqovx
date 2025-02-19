@@ -1,0 +1,8 @@
+The solution is simple: remove the spaces around the operators in the `calc()` function.  The corrected CSS is:
+
+```css
+width: calc(100px + 50px);
+height: calc(50vh - 20px);
+```
+
+This will ensure that the calculations are performed correctly.
